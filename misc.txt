@@ -1,0 +1,8 @@
+      <section class="glitch-art">
+        <h2>Glitch Art</h2>
+        <p>Welcome to exploring what’s hiding in plain sight.</p>
+        <a href="#" class="btn">Learn More</a>
+    </section>
+
+
+    
